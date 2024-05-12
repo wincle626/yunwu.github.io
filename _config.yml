@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yun Wu / Personal Webpage"
+title                    : "Dr. Yun Wu / Homepage"
 title_separator          : "-"
 name                     : &name "Dr. Yun Wu"
 description              : &description "personal description"
@@ -22,20 +22,20 @@ repository               : "wincle626/wincle626.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yun Wu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Belfast, Northern Ireland, UK"
+  employer         : "Queen's University Belfast"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yun.wu@qub.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=E232JgIAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "https://orcid.org/0000-0001-9332-2858"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
