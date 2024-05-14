@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+y# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yun Wu"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Lecturer of Computing Systems. My research interest primarily focuses on the fields of energy-efficient embedded systems. "
+  bio              : "I am a Lecturer of Computing Systems. Currently, my research primarily focuses on energy-efficient embedded systems. I am insterested in wide range of computing innovations in theories, methodologies, and implementations. "
   location         : "Belfast, Northern Ireland, UK"
   employer         : "Queen's University Belfast"
   uri              : # URL
