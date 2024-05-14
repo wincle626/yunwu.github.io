@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yun Wu / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Dr. Yun Wu"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "wincle626/wincle626.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yun Wu"
+  name             : "Dr. Yun Wu"
   pronouns         : # example: "she/her"  
   bio              : "I am a Lecturer of Computing Systems. Currently, my research primarily focuses on energy-efficient embedded systems. I am insterested in wide range of computing innovations in theories, methodologies, and implementations. "
   location         : "Belfast, Northern Ireland, UK"
