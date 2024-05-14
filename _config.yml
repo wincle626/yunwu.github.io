@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Dr. Yun Wu"
+name                     : &name "Yun Wu"
 description              : &description "personal description"
 url                      : https://wincle626.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "wincle626/wincle626.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Yun Wu"
+  name             : "Yun Wu"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Lecturer of Computing Systems. Currently, my research primarily focuses on energy-efficient embedded systems. I am insterested in wide range of computing innovations in theories, methodologies, and implementations. "
+  bio              : "A dedicated researcher -- efficient embedded computing systems. "
   location         : "Belfast, Northern Ireland, UK"
   employer         : "Queen's University Belfast"
   uri              : # URL
